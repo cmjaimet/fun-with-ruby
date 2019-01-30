@@ -29,3 +29,5 @@ end
 primes
 primes( 14, 59 )
 three_digit_primes = primes( 100, 1000 )
+
+print three_digit_primes
